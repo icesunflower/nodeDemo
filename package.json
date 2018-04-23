@@ -1,0 +1,23 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "description": "learn how to use node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/icesunflower/nodeDemo.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "baosi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icesunflower/nodeDemo/issues"
+  },
+  "homepage": "https://github.com/icesunflower/nodeDemo#readme"
+}
